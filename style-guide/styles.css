@@ -1,0 +1,145 @@
+/* headings */
+.main-heading {
+    background-color: #EFEFEF;
+    border-bottom: 3px solid #444;
+    width: 100%;
+    max-width: 800px;
+    margin: 0;
+    padding: 0 10px;
+    text-align: left;
+    top: 0;
+  }
+  
+  .section-heading {
+    margin: 7px 0;
+    border-bottom: 2px solid #444;
+  }
+  
+  .sub-heading {
+    margin-top: 5px;
+    border-bottom: 1px solid #444;
+  }
+  
+  /* headings colors */
+  
+  .darkseagreen {
+    color: #8FBC8F;
+  }
+  
+  .rosybrown {
+    color: #BC8F8F;
+  }
+  
+  .lightcoral {
+  color: #F08080;
+  }
+  
+  /* section style */
+  
+  section {
+    border: 2px solid #444;
+    background-color: #EFEFEF;
+    margin: 20px 0;
+    padding: 5px 9px;
+    width: 100%;
+    max-width: 800px;
+  }
+  
+  /* color boxes */
+  div.color-list span {
+    display: inline-block;
+    margin: 5px 5px 5px 0;
+  }
+  
+  .color-box-style {
+    color: #fff;
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-align: center;
+    padding: 40px 10px;
+    height: 50px;
+    width: 160px;
+  }
+  
+  .color-box-label {
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 2px;
+  }
+  
+  /* colors */
+  .darkseagreen-bg {
+    background-color: #8FBC8F;
+  }
+  
+  .rosybrown-bg {
+    background-color: #BC8F8F;
+  }
+  
+  .lightcoral-bg {
+  background-color: #F08080;
+  }
+  
+  /* font list */
+  
+  .font-list li {
+    list-style: none;
+    margin: 5px 0 5px 0;
+    font-size: 16px;
+  }
+  
+  /* fonts */
+  
+  .bitter {
+     font-family: 'Bitter', serif;
+  }
+  
+  .red-hat-display {
+     font-family: 'Red Hat Display', sans-serif;
+  }
+  
+  .glory {
+     font-family: 'Glory', sans-serif;
+  }
+  
+  .montserrat {
+     font-family: 'Montserrat', sans-serif;
+  }
+  
+  /* font styles */
+  .bold {
+     font-weight: 700;
+  }
+  
+  .italic {
+     font-style: italic;
+  }
+  
+  /* styles */
+  .style-list li {
+    list-style: square;
+    margin: 5px 0 5px 0;
+  }
+  
+  h1, .h1 {
+    font-size: 55px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+  }
+  
+  h2, .h2 {
+    font-size: 40px;
+    letter-spacing: 1px;
+  }
+  
+  h3, .h3 {
+    font-size: 23px;
+    letter-spacing: 1px;
+  }
+  
+  p, li {
+    font-family: 'Montserrat';
+    font-size: 16px;
+    margin: 5px 0 15px 0;
+  }
